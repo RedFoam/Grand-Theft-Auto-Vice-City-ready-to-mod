@@ -8,7 +8,7 @@ This project brings essential fixes, controller support, widescreen improvements
 
 ## 🔗 Working on the Other Classic GTA?
 
-- 🌆 [GTA III — Ready to Mod](https://github.com/RedFoam/GTA-III-Ready-To-Mod)
+🌆 [GTA III — Ready to Mod](https://github.com/RedFoam/GTA-III-Ready-To-Mod)
 
 Looking for the other classic GTA setup? Check out the companion project!
 
