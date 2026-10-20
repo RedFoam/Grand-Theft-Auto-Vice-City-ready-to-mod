@@ -129,8 +129,6 @@ Third-party components remain subject to their original licenses and redistribut
 
 Where redistribution is not permitted, obtain the component directly from its original source. The ModDB executable link is provided for users who want to access the original download separately.
 
----
-
 ## 🌆 More Classic GTA Mods
 
 Want to set up Liberty City instead?
